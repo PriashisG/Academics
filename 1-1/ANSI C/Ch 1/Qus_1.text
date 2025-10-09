@@ -1,0 +1,148 @@
+*********Algorithm*********
+
+1.1 : Algorithm to find area of a circle
+      step 0 - start
+      step 1 - input r
+      step 2 - area= 3.1416*r*r
+      step 3 - print area 
+      step 4 - end
+
+1.2 : 
+
+1.3 : Algorithm to compute interest on principal
+      step 0 - start
+      step 1 - input P,R,T
+      step 2 - interest = P*(R/100)*T
+      step 3 - print interest
+      step 4 - end
+
+1.4 : 
+
+1.5 : Algorithm to find the sum of the digits of a 3-digit number
+      step 0 - start
+      step 1 - sum=0
+      step 2 - input num 
+      step 3 - repeat steps (a)-(c) while num!=0
+                      (a) rem=num%10
+                      (b) num=num/10
+                      (c) sum=sum+rem
+      step 4 - print sum
+      step 5 - end 
+
+1.6 : 
+
+1.7 : Algorithm to assign the grades of a student
+      step 0 : start
+      step 1 : input marks
+      step 2 : if marks>100 then 
+                              print Invalid input. marks cannot be  higher than 100.
+               else 
+                  go to step 3 
+               end if
+      step 3 : if marks>=90 then 
+                              print O
+               else 
+                  go to step 4
+               end if
+      step 4 : if marks>=80 then 
+                              print E
+               else 
+                  go to step 5
+               end if
+      step 5 : if marks>=70 then 
+                              print A
+               else 
+                  go to step 6
+               end if
+      step 6 : if marks>=60 then 
+                              print B
+               else 
+                  go to step 7
+               end if
+      step 7 : if marks>=50 then 
+                              print C
+               else 
+                  go to step 8
+               end if
+      step 8 : if marks>=90 then 
+                              print D
+               else 
+                  go to step 9
+               end if
+      step 9 : if marks>=90 then 
+                              print F 
+               else 
+                  print Invalid input. marks cannot be negative
+               end if
+      step 10 : end
+
+1.8 : 
+
+1.9 : Algorithm to find out the age of a person correct to number of days
+      step 0 : start
+      step 1 : input age
+      step 2 : day=age*365
+      step 3 : print day 
+      step 4 : end 
+
+1.10 : Algorithm to count the number of the digit present in a number
+      step 0 : start
+      step 1 : input num
+      step 2 : if num=0 then
+                          i=i+1
+                          num=num/10
+               else 
+                  print i 
+               end if 
+      step 3 : end
+
+1.11 : Algorithm to find sum of 2+4+6+.....+N terms
+      step 0 : start
+      step 1 : i=2, sum=0
+      step 2 : input N
+      step 3 : if i<=N then 
+                          sum = sum+i
+                          i=i+2
+               else
+                  print i 
+               end if
+      step 4 : end                          
+
+1.12 : 
+
+1.13 : Algorithm to find sum of 1x2 + 2x3 + 3x4 +.....+ N terms
+      step 0 : start 
+      step 1 : i=1, sum=0
+      step 2 : input N 
+      step 3 : if i<=N then
+                          sum= i x (i+1)
+                          i=i+1
+               else
+                  print i 
+               end if
+      step 4 : end
+
+1.14 : 
+
+1.15 :
+
+1.16 : Algorithm to display in words the digits of number
+    step 0 : start
+    step 1 : input num 
+    step 2 : if num=0 then 
+                        end 
+             else
+                rem=num%10
+                num=num/10
+                if rem=0 then print zero
+
+
+
+1.17 : Algorithm to find the sum of 1^2 + 3^2 + 4^2 +.....+ N teams
+    step 0 : start 
+    step 1 : i=2 
+    step 2 : repeat steps (a)-(b) while i<=N 
+                    (a) sum = i^2
+                    (b) i=i+2
+    step 3 : print sum 
+    step 4 : end

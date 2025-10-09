@@ -1,0 +1,6 @@
+- topic sentence - 2,3 lines - like definition & short description
+- brain storming - find out the topics to explain
+- my decision/my opinion on 3rd person view.
+- all in present tense. if past need use present perfect tense. if time mentioned, use past tense
+- firstly, secondly, thirdly.. then explain the topic mentioned in the topic sentence. each topic in 4 lines
+- conclusion - to sum up / in short

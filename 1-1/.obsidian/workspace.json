@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "4b670cce937ae958",
+    "type": "split",
+    "children": [
+      {
+        "id": "83fa1b8139b03755",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebe02d7f7a9fd151",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ahanf notes/2 - Chemical Bonds Revised.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2 - Chemical Bonds Revised"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dcab436513cd2025",
+    "type": "split",
+    "children": [
+      {
+        "id": "83f977d0dff0adb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "107321b81fee766f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "52f87369f83d2142",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#important",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "02e9da3f7541d07e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 371.5
+  },
+  "right": {
+    "id": "d3d8066b426dd0be",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9fe46d35f443ea0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7223894fb049def",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Chem/Solution.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Solution"
+            }
+          },
+          {
+            "id": "d7fbb0d976d52aa4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "7d334f4c9519fd79",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "51b326bb6737e606",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Chem/Solution.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Solution"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ebe02d7f7a9fd151",
+  "lastOpenFiles": [
+    "ahanf notes/1 - Solution.md",
+    "EEE/KVL & KCL.md",
+    "Contents/Class Slides/Integral calculus (1).pdf",
+    "Contents/Class Slides/Integral calculus.pdf",
+    "Contents/Class Slides/Hardware part.pdf",
+    "Contents/Class Slides/Ethics.pdf",
+    "Contents/Class Slides/CSE as a Descipline.pdf",
+    "Contents/Class Slides/Computer Ethics.pdf",
+    "Contents/Class Slides/CL_12_Impedance.pdf",
+    "Contents/Class Slides/CL_5_Mesh.pdf",
+    "Contents/Class Slides/CL_4_Node.pdf",
+    "Contents/Class Slides/chemistryMAA-CT-1.pdf",
+    "Chem/Colligative properties.md",
+    "Chem/Chemical Bonds.md",
+    "EEE/11 - Phasor.md",
+    "EEE/12 - Impedance.md",
+    "EEE/Theory qus for semester final.md",
+    "EEE/Nodal Analysis.md",
+    "Screenshot 2025-03-27 at 6.57.43 PM.png",
+    "Screenshot 2025-03-27 at 6.52.37 PM.png",
+    "Screenshot 2025-03-27 at 6.49.47 PM.png",
+    "Screenshot 2025-03-27 at 6.49.15 PM.png",
+    "Screenshot 2025-03-27 at 6.25.07 PM.png",
+    "Screenshot 2025-03-27 at 6.24.38 PM.png",
+    "EEE/Mesh Analysis.md",
+    "EEE/Source Transformation.md",
+    "EEE/Course Informations.md",
+    "Chem/Course Informations.md",
+    "ahanf notes/6 - Spectroscopy.md",
+    "ahanf notes/3 - Thermochemistry.md",
+    "ahanf notes/2 - Chemical Bonds Revised.md",
+    "Math/Differentiation/Function.md",
+    "Chem/Electrochemistry Redo.md",
+    "Contents/Screenshots/Screenshot 2025-02-25 at 11.35.36 AM.png",
+    "Chem/Spectroscopy.md",
+    "Chem/Chemical bonds 1.md",
+    "Chem/Solution.md",
+    "Chem/Thermochemistry.md",
+    "Chem/Polymer Chemistry.md",
+    "ahanf notes/4 - Electrochemistry.md",
+    "ahanf notes/5 - Photochemistry.md",
+    "Chem/Photochemistry.md",
+    "Contents/Screenshots/Screenshot 2025-02-23 at 4.06.01 PM.png",
+    "Contents/Screenshots/Screenshot 2025-02-22 at 8.03.00 PM.png",
+    "Contents/Screenshots/Screenshot 2025-02-22 at 8.02.53 PM.png",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}

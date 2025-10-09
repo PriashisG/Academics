@@ -1,0 +1,205 @@
+
+
+## Definition
+
+Definition: Force of attraction between two or more atoms which holds them together and form stable molecules, compounds or ions.
+
+
+## Types of Bond
+
+1. Electrovalent Bond/ Ionic Bond
+2. Covalent Bond
+3. Coordinate Covalent Bond
+4. Hydrogen Bond
+5. Metallic Bond
+
+
+
+### Electrovalent Bond
+
+*How to form electronegative and electropositive bond?*
+
+#### Ionic Potential
+
+Definition: The amount of energy required to remove the most loosely bound electron from an isolated gaseous state of atom and form a cation is called Ionic potential.
+
+$$
+M_{(s)}\ +\ I\ \rightarrow\ m^+_{(g)}\ +\ e^-
+$$
+Here,
+	I = Ionic Potential, the energy required to remove electron
+
+#### Successive Ionisation Potential
+
+Electron removes one by one, not more than one at a time
+
+$$
+M_{(s)}\ +\ I_1\ \rightarrow\ M^+_{(g)}\ +\ e^-
+$$
+$$
+M^+_{(g)}\ +\ I_2\ \rightarrow\ m^{2+}_{(g)}\ +\ e^-
+$$
+$$
+I_n\ >\ I_{n-1}\ >\ I_{n-2}\ >\ ...\ ...\ >\ I_2\ >\ I_1
+$$
+
+
+#### Electron Affinity
+
+The amount of energy released to add an electron to an isolated gaseous atom and form anion is called electron affinity.
+
+$$
+A_{(g)}\ +\ e^-\ \rightarrow\ a^-_{(s)}\ +\ (-Energy\ Release)
+$$
+Here,
+the amount of released energy is electron affinity
+
+
+#### Conditions for formation of Ionic Bond
+
+$$
+c\ +\ I\ \rightarrow\ c^+\ +\ e^-
+$$
+$$
+a\ +\ e^-\ \rightarrow\ a^-\ +\ (-A) 
+$$
+$$
+c^+\ +\ a^-\ \rightarrow\ c^+a^-[Crystal]\ +\ (-u_o)[Crystal Energy]
+$$
+$$
+\Delta H^o \oint_{c^+a^-}\ =\ I\ +\ (-A)\ +\ (-U)\ =\ I\ -\ A\ -\ U
+$$
+
+This must be negative, if it is not negative, formation of crystal is not possible. Exception: NaI
+
+
+#### Energetics of Ionic bond formation
+
+1. Formation of Ions
+2. Ion's Pair Formation
+![[Pasted image 20241201175723.png]]
+3. Ion's Square: The more is the number of ion's square, the more is the stability of the compound
+4. Lattice or Crystal Energy: The energy released while forming a crystal is called a crystal energy
+   
+   To be specific,
+   If 1 gram-mole of electropositive ion reacts with 1 gram-mole of electronegative ion and form 1 gram-mole of crystal, then the released energy will be crystal energy
+
+
+#### Characteristics of Ionic Compound
+
+1. Solid at room temperature, because of the strong electrostatic force of the ions.
+2. Locked in their allocated position
+3. Melting point is high. Because they demand higher amount of energy for free movement of the ions
+4. Hard and Brittle.
+
+![[Pasted image 20241201180426.png]]
+5. Soluble in H<sub>2</sub>O
+![[Pasted image 20241201180531.png]]
+6. Poor conductivity in solid state
+7. Don't exhibit isomerism. As they are rigid and hence non-directional, they don't show isomerism
+8. Molecular reaction is fast.
+
+
+
+### Covalent Bond
+
+*How to create a sharing electron pair?*
+
+![[Pasted image 20241201181132.png]]
+
+Two positive nuclei has a force of attraction between two electrons but at the same time, there is a repulsion force between the nuclei, when the attraction force is higher, covalent bond is formed
+
+
+#### Conditions for covalent bond
+
+1. Number of valence electrons. That means the compounds must fulfill the octet rule
+2. Equal electronegativity
+3. Equal sharing of electrons
+
+
+#### Polar Covalent Bond
+
+Polar covalent bond is formed when two compound has unequal electronegativity. As a result, the shared electrons feel a higher attraction to the more electronegative atom.  
+
+Definition: A covalent bond, in which, electrons are shared unequally and the bonded atoms acquire a partial positive and negative charge is called polar covalent bond
+
+
+*Compare the properties of covalent and ionic bond*
+
+#### Characteristics of Covalent Bond
+
+1. Liquid, gaseous
+2. Low boiling point, melting point (High melting point for Ionic Bond)
+3. Neither hard not brittle
+4. Reaction rate is slow
+5. Maintains isomerism
+
+
+
+### Coordinate Covalent Bond
+
+Definition: A coordinate covalent bond is a type of alternate covalent bond that is formed by sharing of an electron pair from a single atom.
+
+Sharing electro pair comes from one of the atoms.
+
+Atoms sharing electron pairs are called ligands.
+
+Ligands can be monodentate, bidentate or polydentate   
+
+![[Pasted image 20241201183205.png]]
+
+
+
+### Hydrogen Bond
+
+When Hydrogen is covalently bonded to highly electronegative atom X (O, N, F), the sharing electron (lone pair) is pulled close to X, which has a strong dipole result.![[Pasted image 20241201194645.png]]
+
+#### Conditions
+
+1. It is formed when the atom's size is small and electronegativity is high
+2. It is longer but much weaker than that of normal covalent bond
+3. Hydrogen bond results in long chain of large number of molecules like tiny magnets
+4. Like covalent bond, Hydrogen bond has preferred bonding direction
+
+
+#### Types of Hydrogen Bond
+
+- Intra Molecular Hydrogen Bond
+  ![[Pasted image 20241201194933.png]]
+  first figure: 2 - Nitrophenol
+  second figure: 2 - Nitro Benzoic Acid
+
+- Inter Molecular Hydrogen Bond
+  ![[Pasted image 20241201195026.png]]
+
+
+### Metallic Bond
+
+#### Electron Sea Model
+
+![[Pasted image 20241201195329.png]]
+
+The force of attraction between delocalized electrons and neighboring metallic ions is called metallic bond
+
+*Explain the physical properties of metal using electron sea model*
+
+#### Properties
+
+1. Reflectivity
+   ![[Pasted image 20241201195617.png]]
+2. Good conductor of electricity
+3. Good head conductivity
+4. Malleability and Ductility (Fluidity / Liquidity) \[It can be beaten]
+5. Electron Emission (Photoelectric Effect)
+
+*Explain malleability and ductility using electron sea model*
+
+```
+The electron sea model explains malleability and ductility in metals by ==describing how the delocalized electrons in a metal's structure allow the metal to deform without breaking==: 
+
+Malleability: The ability of a metal to be deformed under compressive stress, such as hammering or rolling. 
+
+Ductility: The ability of a metal to be stretched into wires. 
+
+In the electron sea model, metal atoms are surrounded by a "sea" of delocalized electrons. These electrons are free to move around, and act as a cushion that allows the metal ions to slide past each other without breaking the metallic bond. The delocalized electrons redistribute themselves to maintain the metallic bond even as the metal is deformed.
+```
