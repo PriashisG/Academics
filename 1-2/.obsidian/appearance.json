@@ -1,4 +1,5 @@
 {
   "textFontFamily": "",
-  "interfaceFontFamily": "Consolas"
+  "interfaceFontFamily": "Consolas",
+  "theme": "system"
 }

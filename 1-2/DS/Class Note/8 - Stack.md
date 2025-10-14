@@ -61,24 +61,14 @@ $$(A+B)/(C-D)=[+AB]/[-CD] = /+AB-CD$$
 
 #### Postfix Notation / Suffix Notation:
 - Operator is placed after its two operands.
-$$A+(B+C)=A+[BC*]=A+BC*$$
+$$A+(B*C)=A+[BC*]=A+BC*$$
 $$(A+B)/(C-D)=[AB+]/[CD-]=AB+CD-/$$
 
 #### Infix to Postfix notation:
 
 **Algorithm:**
-1. Push "$($ " into $STACK$, and add "$)$" to the end of $Q$. $[\text{Q is the input expression}]$
-2. Scan $Q$ from left to right and repeat Steps $3$ to $6$ for each element of $Q$ until the $STACK$ is empty:
-	1.           If an operand is encountered, add it to $P$.
-			$[\text{P is the postfix expression}]$
-3.           If a left parenthesis is encountered, push it onto $STACK$.
-4.           If an operator $\oplus$ is encountered, then:
-			1. Repeatedly pop from $STACK$ and add to $P$ each operator which has the same precedence as.
-			2. Add $\oplus$ to $STACK$.
-5.            If a right parenthesis is encountered then:
-			1. Repeatedly pop from $STACK$ and add to $P$ each operator until a left Parenthesis is encountered.
-			2. Remove the left parenthesis.
-6. Exit.
+![[Pasted image 20251014021150.png|700]]
+
 
 **Bangla vashate:**
 - shurute stack e "$($" push korte hobe r $Q$ er sheshe "$)$" push korte hobe.
@@ -92,13 +82,6 @@ $$(A+B)/(C-D)=[AB+]/[CD-]=AB+CD-/$$
 #### Evaluate the value of an arithmetic expression $P$ written in postfix notation
 
 **Algorithm:**
-1. Add "$)$" at the end of P.
-2. Scan $P$ from left to right and repeat steps $3$ and $4$ for each element of $P$ until the sentinel "$)$" encountered.
-3.            If an operand is encountered, put it on $STACK$.
-4.            If an operator $\oplus$ is encountered, then:
-			1. Remove the two top element of $STACK$, where $A$ is the top element and $B$ is the next-to-top element.
-			2. Evaluate $B\oplus A$.
-			3. Place the result of $(2)$ back on $STACK$.
-5. Set $VALUE$ equal to the top element on $STACK$.
-6. Exit.
+![[Screenshot 2025-10-14 at 2.12.13 AM.png|700]]
+
 

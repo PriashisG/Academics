@@ -126,11 +126,11 @@ Here,
 **Algorithm:**
 1. Set $BEG:=LB$, $END:=UB$ and $MID=(BEG + END) / 2$.
 2. Repeat steps $3$ and $4$ while $BEG\le END$ and $DATA[MID]\neq ITEM$.
-3.           IF $ITEM<DATA[MID]$, then:
-			Set $END:=MID - 1$.
-        Else:
-	        Set $BEG:=MID+1$.
-4.           Set $MID:=(BEG+END) / 2$.
+3. IF $ITEM<DATA[MID]$, then:
+		Set $END:=MID - 1$.
+	Else:
+	    Set $BEG:=MID+1$.
+4. Set $MID:=(BEG+END) / 2$.
 5. Exit.
 
 #### Limitation:
