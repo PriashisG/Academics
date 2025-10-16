@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c3d7b91ac2f80587",
+        "id": "64d9a3dc71862a26",
         "type": "tabs",
         "children": [
           {
-            "id": "585c39adedc732ae",
+            "id": "861da9f540745d9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DS/Class Note/9 - Recursion.md",
+                "file": "Physics/Class Note/2 - Oscillation and Wave.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9 - Recursion"
+              "title": "2 - Oscillation and Wave"
             }
           }
         ]
@@ -166,37 +166,41 @@
       "bases:Create new base": false
     }
   },
-  "active": "585c39adedc732ae",
+  "active": "861da9f540745d9f",
   "lastOpenFiles": [
-    "Screenshots/Screenshot 2025-10-14 at 12.00.29 AM.png",
-    "Screenshots/Screenshot 2025-10-14 at 11.01.16 AM.png",
-    "Screenshots/Screenshot 2025-10-14 at 2.12.13 AM.png",
-    "Screenshots/Screenshot 2025-10-13 at 11.37.01 PM.png",
-    "Screenshots/Screenshot 2025-10-13 at 11.35.18 PM.png",
-    "Screenshots/Screenshot 2025-10-13 at 11.21.47 PM.png",
-    "Screenshots/Screenshot 2025-10-13 at 11.19.25 PM.png",
-    "Screenshots/Screenshot 2025-10-13 at 10.31.15 PM.png",
-    "Screenshots/Screenshot 2025-10-13 at 10.24.51 PM.png",
-    "Screenshots/Screenshot 2025-10-13 at 5.38.36 PM.png",
-    "Screenshots/Pasted image 20251014021150.png",
-    "DS/Class Note/8 - Stack.md",
+    "Screenshots/Screenshot 2025-10-16 at 5.37.03 PM.png",
+    "Screenshots/Screenshot 2025-10-16 at 5.31.26 PM.png",
+    "Screenshots/Screenshot 2025-10-16 at 5.25.35 PM.png",
+    "Screenshots/Screenshot 2025-10-16 at 5.22.24 PM.png",
+    "Screenshots/Screenshot 2025-10-16 at 3.53.27 PM.png",
+    "Screenshots/Screenshot 2025-10-16 at 3.22.03 PM.png",
+    "Screenshots/Screenshot 2025-10-16 at 3.21.02 PM.png",
+    "Screenshots/Screenshot 2025-10-16 at 2.26.51 PM.png",
+    "Screenshots/Screenshot 2025-10-16 at 2.26.31 PM.png",
+    "Physics/Class Note/3 - Theories of Light.md",
+    "Screenshot 2025-10-16 at 5.37.03 PM.png",
+    "Screenshot 2025-10-16 at 5.31.26 PM.png",
+    "Physics/Class Note/1 - Structure of Matter.md",
+    "DS/Class Note/4 - Linked Lists.md",
+    "Physics/Class Note/0 - Definition.md",
+    "Physics/Class Note/2 - Oscillation and Wave.md",
+    "Physics/Content/Physics Nuruzzaman sir class notes 1.pdf",
+    "Physics/Content/Mamun sir class note 2.pdf",
+    "Physics/Content/Mamun sir class note 2 cpdf.pdf",
+    "Physics/Content/mamun sir class note 2.pdf",
+    "Physics/syllabus PHY 1213.pdf",
+    "Physics/Content/Mamun sir class note 2 copy.pdf",
+    "Physics/Content/syllabus PHY 1213.pdf",
+    "Physics/Content/Nuruzzaman sir class note 3.pdf",
+    "Physics/Content/Nuruzzaman sir class note 2 .pdf",
+    "Physics/Content/Nuruzzaman sir class note 1.pdf",
     "DS/Class Note/9 - Recursion.md",
+    "DS/Class Note/8 - Stack.md",
     "DS/Class Note/10 - Queue, Deque, Priority Queue.md",
     "DS/Content/DS_Lab_Report_7.md",
     "DS/Class Note/11, 12, 13, 14,15 - Tree.md",
     "DS/Class Note/0 - Definitions.md",
-    "DS/Class Note/PDF/11, 12, 13, 14,15 - Tree.pdf",
-    "DS/Class Note/PDF/9 - Recursion.pdf",
-    "DS/Class Note/PDF/8 - Stack.pdf",
-    "DS/Class Note/4 - Linked Lists.md",
     "DS/Class Note/2, 3 - Arrays, Records & Pointers.md",
-    "DS/Class Note/PDF/2, 3 - Arrays, Records & Pointers.pdf",
-    "DS/Class Note/1 - Preliminaries.md",
-    "DS/Class Note/PDF/1 - Preliminaries.pdf",
-    "DS/Class Note/PDF",
-    "DS/Content/17.sorting&searching-p2.ppt.pdf",
-    "DS/Content/16.sorting&searching-p1.ppt.pdf",
-    "DS/Content/15.Tree-p5.ppt.pdf",
-    "DS/Content/14.Tree-p4.ppt.pdf"
+    "DS/Class Note/1 - Preliminaries.md"
   ]
 }

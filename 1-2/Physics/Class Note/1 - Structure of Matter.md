@@ -31,7 +31,7 @@
 - Long range order
 - **Lattice :** Regular and periodic arrangement of points in space.
 - **Basis :** Atom or group of atoms.
-$$Lattice \ + \ Basis \ = \ Crystal \ Struct.$$
+$$\text{Lattice \ + \ Basis \ = \ Crystal \ Struct.}$$
 - **Example ---->** Dimond salt, most of the metals.
 
 ### Poly-crystalline Solid
@@ -80,12 +80,12 @@ Different lattice parameters can form different kind of crystal unit or unit cel
 | -------------- | ------------------------------------------------------------------ |
 | Triclinic      | $\alpha \neq \beta \neq \gamma \neq 90^\circ$<br>$a \neq b \neq c$ |
 | Monoclinic     | $\alpha = \beta = 90^\circ \neq \gamma$<br>$a \neq b \neq c$       |
-| Orthohombic    | $\alpha = \beta = \gamma = 90^\circ$<br>$a \neq b \neq c$          |
+| Orthorhombic   | $\alpha = \beta = \gamma = 90^\circ$<br>$a \neq b \neq c$          |
 | Cubic          | $\alpha = \beta = \gamma = 90^\circ$<br>$a=b=c$                    |
 | Tetragonal     | $\alpha = \beta = \gamma = 90^\circ$<br>$a=b\neq c$                |
 | Hexagonal      | $\alpha = \beta = 90^\circ, \gamma = 120^\circ$<br>$a = b \neq c$  |
-Unit cell can be broadly divided into 2 categories.
 
+Unit cell can be broadly divided into 2 categories.
 - **Primitive / Simple :** Lattice points lie only at corners
 	- Effective number of lattice point = 1.
 - **Non-Primitive :** Lattice points lie at corners and other locations such as inside or surface.
@@ -118,7 +118,7 @@ Here,
 
 **Packing factor is the fraction of space occupied by the constituent particles (atoms, ions, or molecules) in a unit cell of a crystal.**
 
-$$\text{Packing Factor} = \frac{\text{Volume of all atoms in unit cell}}{\text{Volute of unit cell}}$$
+$$\text{Packing Factor} = \frac{\text{Volume of all atoms in unit cell}}{\text{Volume of unit cell}}$$
 
 $$\therefore P.F. = \frac{N \times \frac{4}{3} \pi r^3}{a^3}$$
 
@@ -187,7 +187,7 @@ Here, Face Centered Cubic is the most closely pact structure among the structure
 
 ### Example of drawing of plane ( 2 3 1 )
 
-We first take reciprocal of ( 2 3 1 )
+- We first take reciprocal of $( \text{2 3 1} )$
 ![[Pasted image 20250613173341.png]]
 
 Then we go half of the total length on $X$-axis, one third on the $Y$-axis and one full on the $Z$-axis. We create a plane by connecting those points as per the following diagram.
@@ -226,7 +226,7 @@ Then we go half of the total length on $X$-axis, one third on the $Y$-axis and o
 	![[Pasted image 20250613173859.png]]
 
 
-Sometimes $h,\ k$ or $l$ can be represented as negative integer or given a bar $(\bar{1})$ like this above them, which generally indicates change in origin. In general the origin is at `( 0 0 0 )` but if we use negative integer on $X$-axis the origin become `( x 0 0 )` where x is the length of the plane along with $x$-axis. For example:
+Sometimes $h,\ k$ or $l$ can be represented as negative integer or given a bar $(\bar{1})$ like this above them, which generally indicates change in origin. In general the origin is at $( \text{0 0 0} )$ but if we use negative integer on $X$-axis the origin become $( $\text{x 0 0})$ where x is the length of the plane along with $x$-axis. For example:
 - $(\ \bar{1} \ 2 \ 2 \ )$ 
 	![[Pasted image 20250613174854.png]]
 
