@@ -14,6 +14,7 @@
 
 # Methods
 
+**Definition:** **Methods** are **functions defined inside a class** that describe the **behavior** of objects of that class.
 Every Method is written inside a class. A class is a container of methods.
 
 # Naming Convention
@@ -83,6 +84,17 @@ public class code {
 - input.next() --> reads a string
 - input.nextln() --> reads a int
 - .nextChar() --> nothing is there like this
+```java
+import java.util.Scanner;
+
+public class ain{
+    public static void main(String[] args){
+        Scanner input = new Scanner(System.in);
+        int x = input.nextInt();
+    }
+}
+```
+
 
 # Array
 ```java
@@ -149,7 +161,7 @@ public class code{
 	int i = Arrays.binarySearch(arr, 4); // if not found returns -ve
 	Arrays.fill(arr, fromIndex, toIndex, value);
 	System.out.println(Arrays.toString(arr)) // [1, 2, 3]
-	arr.lenght // size
+	arr.length() // size
 ```
 
 # ArrayList class

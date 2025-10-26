@@ -62,7 +62,7 @@ int main(){
 ```
 
 ### Unary Operator Overloading
-- to use `cnt++`, write this: `void operator++()`
+- to use `cnt++`, write this: `void operator++(int)`
 ```cpp
 #include <iostream>
 using namespace std;
@@ -184,7 +184,7 @@ Inside print A
 Inside print A
 ```
 - `pa` is an `A*` pointer pointing to a `B` object.  
-- `print()` and `Show()` are normal functions.  
+- `print()` and `show()` are normal functions.  
 - For normal functions, calls are resolved by **pointer type**, not object type.  
 - So `pa->print()` and `pa->show()` call `A`'s versions.
 
@@ -309,18 +309,11 @@ public:
     }
 };
 
-void Show(Animal *a){
-    a->eat();
-}
-
 int main(){
-    Animal *pb;
     Dog d;
-    pb = &d;
-    Show(pb);
+    d.eat();
     Cat c;
-    pb = &c;
-    Show(pb);
+    c.eat();
 }
 ```
 **Output:**

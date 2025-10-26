@@ -1,27 +1,35 @@
 #include <iostream>
 using namespace std;
 
-class Counter {
-private:
-    static int count; 
-
+class Animal{
 public:
-    void increment(){
-        count++;
-    }
+    virtual void eat() = 0;
+};
 
-    void showCount(){
-        cout << "Count = " << count << endl;
+class Dog : public Animal{
+public:
+    void eat(){
+        cout << "Dog food" << '\n';
     }
 };
 
-int Counter::count = 0;
+class Cat : public Animal{
+public:
+    void eat(){
+        cout << "Cat food" << '\n';
+    }
+};
 
-int main() {
-    Counter c1, c2;
-    c1.increment();
-    c2.increment();
-    showCount();
+void Show(Animal *a){
+    a->eat();
+}
 
-    return 0;
+int main(){
+    Animal *pb;
+    Dog d;
+    pb = &d;
+    Show(pb);
+    Cat c;
+    pb = &c;
+    Show(pb);
 }
