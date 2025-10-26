@@ -73,4 +73,5 @@ public class code{
 
 
 - **Multitasking** is the running of multiple programs (sets of instructions) in one computer at the same time. Example: Computer OS.
-- 
+	- Process based --> bad
+	- Thread based --> good
