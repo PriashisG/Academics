@@ -4,24 +4,109 @@
     "type": "split",
     "children": [
       {
-        "id": "64d9a3dc71862a26",
+        "id": "f5191a0cea79bccd",
         "type": "tabs",
         "children": [
           {
-            "id": "861da9f540745d9f",
+            "id": "8b64d1ae242f0953",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Class Note/2 - Oscillation and Wave.md",
+                "file": "OOP/Class Note/1 - Introduction.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1 - Introduction"
+            }
+          },
+          {
+            "id": "6ef59d0d217147dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OOP/Class Note/2 - Classes & Objects in OPP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 - Oscillation and Wave"
+              "title": "2 - Classes & Objects in OPP"
+            }
+          },
+          {
+            "id": "88c0b365dc382df3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OOP/Class Note/3 - Inheritance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3 - Inheritance"
+            }
+          },
+          {
+            "id": "ced8069483b98d15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OOP/Class Note/4 - Polymorphism.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4 - Polymorphism"
+            }
+          },
+          {
+            "id": "1c0d7bd00ccd480b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OOP/Class Note/5 - Polymorphism - 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5 - Polymorphism - 2"
+            }
+          },
+          {
+            "id": "b7cbfb33f7390e84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OOP/Class Note/6 - UML.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6 - UML"
+            }
+          },
+          {
+            "id": "e5715a7d367f22e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OOP/Class Note/7 - Java Programming.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7 - Java Programming"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -78,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.50271224975586
+    "width": 262.50271224975586,
+    "collapsed": true
   },
   "right": {
     "id": "b3a1512f49e3384b",
@@ -94,6 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "4 - Compton Effect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +190,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 4 - Compton Effect"
             }
           },
           {
@@ -166,34 +253,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "861da9f540745d9f",
+  "active": "ced8069483b98d15",
   "lastOpenFiles": [
-    "Screenshots/Screenshot 2025-10-16 at 5.37.03 PM.png",
-    "Screenshots/Screenshot 2025-10-16 at 5.31.26 PM.png",
-    "Screenshots/Screenshot 2025-10-16 at 5.25.35 PM.png",
-    "Screenshots/Screenshot 2025-10-16 at 5.22.24 PM.png",
-    "Screenshots/Screenshot 2025-10-16 at 3.53.27 PM.png",
-    "Screenshots/Screenshot 2025-10-16 at 3.22.03 PM.png",
-    "Screenshots/Screenshot 2025-10-16 at 3.21.02 PM.png",
-    "Screenshots/Screenshot 2025-10-16 at 2.26.51 PM.png",
-    "Screenshots/Screenshot 2025-10-16 at 2.26.31 PM.png",
+    "OOP/Class Note/5 - Polymorphism - 2.md",
+    "OOP/Class Note/4 - Polymorphism.md",
+    "OOP/Class Note/3 - Inheritance.md",
+    "OOP/Class Note/2 - Classes & Objects in OPP.md",
+    "OOP/Class Note/7 - Java Programming.md",
+    "OOP/Class Note/6 - UML.md",
+    "Screenshot 2025-10-26 at 11.15.53 AM.png",
+    "OOP/Class Note/1 - Introduction.md",
+    "OOP/Content/11. Java_Specials.pdf",
+    "Screenshot 2025-10-26 at 8.02.29 AM.png",
+    "Screenshot 2025-10-26 at 8.01.13 AM.png",
+    "Screenshot 2025-10-26 at 8.00.24 AM.png",
+    "Screenshot 2025-10-26 at 7.58.38 AM.png",
+    "Screenshot 2025-10-26 at 7.04.59 AM.png",
+    "OOP/sem_final/Demo.class",
+    "OOP/sem_final/SI.class",
+    "OOP/sem_final/FI.class",
+    "OOP/sem_final/Circle.class",
+    "OOP/sem_final/Shape.class",
+    "OOP/sem_final/Employee.class",
+    "OOP/sem_final/Person.class",
+    "OOP/sem_final/Human.class",
+    "OOP/sem_final/code.java",
+    "7 - Java Basic.md",
+    "Screenshots/Screenshot 2025-10-25 at 12.26.45 PM.png",
+    "Screenshots/Screenshot 2025-10-25 at 5.09.37 PM.png",
+    "Screenshot 2025-10-25 at 5.09.37 PM.png",
+    "Screenshot 2025-10-25 at 12.26.45 PM.png",
+    "Physics/Class Note/4 - Compton Effect.md",
+    "temp.md",
     "Physics/Class Note/3 - Theories of Light.md",
-    "Screenshot 2025-10-16 at 5.37.03 PM.png",
-    "Screenshot 2025-10-16 at 5.31.26 PM.png",
+    "Physics/Class Note/2 - Oscillation and Wave.md",
     "Physics/Class Note/1 - Structure of Matter.md",
     "DS/Class Note/4 - Linked Lists.md",
     "Physics/Class Note/0 - Definition.md",
-    "Physics/Class Note/2 - Oscillation and Wave.md",
-    "Physics/Content/Physics Nuruzzaman sir class notes 1.pdf",
-    "Physics/Content/Mamun sir class note 2.pdf",
-    "Physics/Content/Mamun sir class note 2 cpdf.pdf",
-    "Physics/Content/mamun sir class note 2.pdf",
-    "Physics/syllabus PHY 1213.pdf",
-    "Physics/Content/Mamun sir class note 2 copy.pdf",
-    "Physics/Content/syllabus PHY 1213.pdf",
-    "Physics/Content/Nuruzzaman sir class note 3.pdf",
-    "Physics/Content/Nuruzzaman sir class note 2 .pdf",
-    "Physics/Content/Nuruzzaman sir class note 1.pdf",
     "DS/Class Note/9 - Recursion.md",
     "DS/Class Note/8 - Stack.md",
     "DS/Class Note/10 - Queue, Deque, Priority Queue.md",

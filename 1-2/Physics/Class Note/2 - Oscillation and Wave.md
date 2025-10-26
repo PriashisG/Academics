@@ -1,12 +1,12 @@
 - **Periodic:** Time period will be same.
 - Amplitude same
 - Restoring force is always directed towards the main position.
-![[Pasted image 20250707022508.png]] 
+![[Pasted image 20250707022508.png|400]] 
 If any motion fulfilled above 3 conditions, it called Simple Harmonic Motion.
 
 # Derivation
 
-![[Screenshot 2025-07-06 at 4.04.47 PM.png]]
+![[Screenshot 2025-07-06 at 4.04.47 PM.png|400]]
 $$F \propto y$$
 $$\Rightarrow F= -ky$$
 $$\Rightarrow my^" + ky = 0\quad [F = my^"]$$
@@ -51,10 +51,10 @@ $$\Rightarrow y(t) = \text{Real}[Acos(\omega t + \phi) + i \cdot f(t)]$$
 Here, $f(t)$ is a real function.
 
 if $f(t)$ is arbitrary, plotting the $y(t)$ we will find that the locus will be mysterious.
-![[Screenshot 2025-07-06 at 11.57.34 PM.png|500]]
+![[Screenshot 2025-07-06 at 11.57.34 PM.png|300]]
 
 It $f(t)$ is confined that is a periodic and real function the locus will be a circle.
-![[Screenshot 2025-07-06 at 11.59.09 PM.png|500]]
+![[Screenshot 2025-07-06 at 11.59.09 PM.png|300]]
 
 The projection will rotate across the circumstance:
 $$x = OM cos(\omega t)$$
@@ -153,15 +153,11 @@ $$=\frac{1}{2}ka^2[sin^2(\omega t + \phi) + cos^2(\omega t + \phi)] \quad [\omeg
 $$=\frac{1}{2}ka^2$$
 $$=2\pi^2 n^2 a^2 m = constant$$
 Here, $n =$ frequency
-
-![[Screenshot 2025-07-07 at 12.56.19 AM.png]]
-
+![[Screenshot 2025-07-07 at 12.56.19 AM.png|400]]
 Average, $$\text{K.E.} = \frac{1}{T} \int_{0}^{T} \frac{1}{2}mv^2dt$$
 $$=\frac{1}{4}ka^2$$
 $$\text{P.E.} = \frac{1}{T}\int_{0}^{T} \text{P.E.}\ dt$$
 $$=\frac{1}{4}ka^2$$
-
-
 ### Composition of simple harmonic motion 
 
 If one or more SHM motions act simultaneously on a particle, two SHM acting simultaneously in a straight line,
@@ -175,7 +171,6 @@ $$y = y_1 + y_2$$
 $$= (a_1 cos\ \alpha_1 + a_2cos\ \alpha_2)sin(\omega t) + (a_1cos\ \alpha_1 +a_2sin\ \alpha_2)cos(\omega t)$$
 $$= Acos\ \phi \cdot sin(\omega t) + Asin \phi \cdot cos(\omega t)$$
 Let, $$a_1 cos\ \alpha_1 + a_2cos\ \alpha_2 = Acos\phi\ .....(i)$$$$a_1 sin\ \alpha_1 + a_2 sin\ \alpha_2 = Asin\phi\ .....(ii)$$
-
 The resultant motion will be:
 $$y = Asin(\omega t + \phi)$$ which is SHM motion. 
 - The nature of the motion - Oscillatory 
@@ -187,7 +182,7 @@ If $\alpha_1 = \alpha_2 = \alpha$ that means two vibrations in same phase then,
 $$A = a_1 + a_2$$
 If $\alpha_1 - \alpha_2 = (2n+1)\pi$ then,
 $$A = a_1 - a_2$$
-![[Screenshot 2025-07-07 at 1.22.28 AM.png]]
+![[Screenshot 2025-07-07 at 1.22.28 AM.png|500]]
 
 ### Composition of two perpendicular SHM:
 
@@ -199,7 +194,7 @@ $$\Rightarrow \frac{y}{b} = sin(\omega t)$$
 
 Now,
 $$\frac{x}{a}= \frac{y}{b}cos\phi + \sqrt{1 - \frac{y^2}{b^2}} \cdot sin\phi$$
-$$\Rightarrow (\frac{x}{a} - \frac{y}{a}cos\phi)^2 = (a- \frac{y^2}{b^2})\cdot sin^2\phi$$
+$$\Rightarrow (\frac{x}{a} - \frac{y}{b}cos\phi)^2 = (1- \frac{y^2}{b^2})\cdot sin^2\phi$$
 $$\Rightarrow \frac{x^2}{a^2} + \frac{y^2}{b^2} - \frac{2xy}{ab}cos\phi = sin^2\phi$$
 It's a generation equation of conic. The shape will depend upon $\phi$ and $a$ and $b$.
 If, $\phi = 0, 2\pi, 4\pi, ...., 2n\pi$ , then 
@@ -216,14 +211,14 @@ If two simple harmonic motions act on a point perpendicularly and simultaneously
 
 If $\phi = \pi$, then
 $$sin\phi = 0, cos\phi = -1$$
-$$\therefore y = \pm \frac{b}{a}$$
-![[Screenshot 2025-07-07 at 1.45.58 AM.png]]
+$$\therefore y = \pm \frac{b}{a}x$$
+![[Screenshot 2025-07-07 at 1.45.58 AM.png|500]]
 
 If $\phi = \frac{\pi}{2}$, then 
 $$\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1$$
 Equation of a symmetrical ellipse.
 If $a = b$, then it will be an equation of circle.
-![[Screenshot 2025-07-07 at 1.48.57 AM.png]]
+![[Screenshot 2025-07-07 at 1.48.57 AM.png|500]]
 
 ### Example :
 
@@ -234,11 +229,12 @@ $$x = asin(2\omega t + \phi)$$
 $$\Rightarrow \frac{x}{a} = sin(2\omega t)\cdot cos\phi + cos(2\omega t) \cdot sin\phi$$
 $$\Rightarrow \frac{x}{a} = 2sin(\omega t) \cdot cos(\omega t)\cdot cos\phi + (1 - 2sin^2(\omega t)\cdot sin\phi)$$
 $$\Rightarrow \frac{x}{a} = 2 \cdot \frac{y}{b} \cdot \sqrt{1-\frac{y^2}{b^2}}\cdot cos\phi + (1 - 2\cdot \frac{y^2}{b^2})\cdot sin\phi$$
-$$\Rightarrow (\frac{x}{a} - sin\phi)^2 + \frac{4y^4}{b^4}sin^2\phi + 2(\frac{x}{a} - sin\phi)\cdot 2\frac{y^2}{b^2}sin^2\phi = \frac{4y^2}{b^2}cos^2\phi \cdot \sqrt{1- \frac{y^2}{b^2}}$$
+root er part ta ekdike rekhe bakita onno dike niye square.
+$$\Rightarrow (\frac{x}{a} - sin\phi)^2 + \frac{4y^4}{b^4}sin^2\phi + 2(\frac{x}{a} - sin\phi)\cdot 2\frac{y^2}{b^2}sin\phi = \frac{4y^2}{b^2}cos^2\phi \cdot ({1- \frac{y^2}{b^2}})$$
 $$\therefore (\frac{x}{a} - sin\phi)^2 + \frac{4y^2}{b^2}(\frac{y^2}{b^2} + \frac{x}{a}sin\phi - 1)= 0$$
 Equation of a curve having two loops.
 When $\phi = 0$ then,
-$$\frac{x^2}{a^2} + \frac{ay^2}{b^2}\cdot(\frac{y^2}{b^2} - 1) = 0$$
+$$\frac{x^2}{a^2} + \frac{4y^2}{b^2}\cdot(\frac{y^2}{b^2} - 1) = 0$$
 It will be display the figure of eight.
 ![[Screenshot 2025-07-07 at 2.09.22 AM.png]]
 
